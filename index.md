@@ -1,34 +1,14 @@
-## Portfolio
+## Academic Profile Page
 
 ---
 
-### Category Name 1 
+### Biography
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+I am an MPhil Student in the Division of Social Science at Hong Kong University of Science and Technology. My MPhil explores the effect of men's long working hours and gendered work norms on family formation in East Asia using panel data, supervised by <a href="https://sosc.ust.hk/blog/faculty/sgb/">Stuart Gietel-Basten</a>.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+My research interests are in fertility, family formation, and other topics in social demography broadly.
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+I hold BSc (Honours) in Mathematics from the <a href="https://www.bath.ac.uk/departments/department-of-mathematical-sciences/">University of Bath</a>. I have lived in Hong Kong for six years, several of which were spent working at <a href="http://www.pathfinders.org.hk/public/">PathFinders</a>, an organization which assists domestic workers duirng pregnancy and childbirth. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
