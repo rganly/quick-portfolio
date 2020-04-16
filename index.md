@@ -4,7 +4,7 @@
 
 ### Biography
 
-I am an MPhil Student in the Division of Social Science at Hong Kong University of Science and Technology. My MPhil explores the effect of men's long working hours and gendered work norms on family formation in East Asia using panel data, supervised by <a href="https://sosc.ust.hk/blog/faculty/sgb/">Stuart Gietel-Basten</a>.
+I am an MPhil Student in the Division of Social Science at Hong Kong University of Science and Technology. My MPhil explores the effect of men's long working hours and gendered work norms on family formation in East Asia, supervised by <a href="https://sosc.ust.hk/blog/faculty/sgb/">Stuart Gietel-Basten</a>.
 
 My research interests are in fertility, family formation, and other topics in social demography broadly.
 
