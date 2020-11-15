@@ -10,6 +10,8 @@ My research interests are in fertility, family formation, and other topics in so
 
 I hold BSc (Honours) in Mathematics from the <a href="https://www.bath.ac.uk/departments/department-of-mathematical-sciences/">University of Bath</a>. I have lived in Hong Kong for seven years, several of which were spent working at <a href="http://www.pathfinders.org.hk/public/">PathFinders</a>, an organization which assists domestic workers duirng pregnancy and childbirth. 
 
+My academic CV is <a href="https://www.bath.ac.uk/departments/department-of-mathematical-sciences/">here</a>. 
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
