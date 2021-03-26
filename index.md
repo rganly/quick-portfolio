@@ -12,6 +12,8 @@ I hold BSc (Honours) in Mathematics from the <a href="https://www.bath.ac.uk/dep
 
 My academic CV is <a href="https://rganly.github.io/pdf/Rachel_Ganly_CV_Jan2021.pdf">here</a>. 
 
+Here is a link to my <a href="https://scholar.google.com/citations?user=LlZRoVgAAAAJ&hl=en&oi=ao">Google Scholar</a> page.
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
